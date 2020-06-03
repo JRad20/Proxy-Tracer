@@ -1,4 +1,3 @@
-# Proxy-Tracer
 
 <h1>Ip Tracer</h1>
 <p> input and ip address **ONLY** do not add the port or anything else!</p>
