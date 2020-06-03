@@ -7,3 +7,8 @@ This script is designed to help find the source of a proxy and perhaps be able t
 <p> input the url of the proxy and nothing else then it will return the ip address from there you can put it in the ip tracer</p>
 <h2>INFO</h2>
 <p> This script is currently very basic and will need further updates to improve proxy tracking if you would like this project to continue please star the repo</p>
+<h1>Requirements</h1>
+- Requests
+- bs4
+- colorama
+Please install these requirements via pip.
