@@ -9,8 +9,8 @@ This script is designed to help find the source of a proxy and perhaps be able t
 <p> This script is currently very basic and will need further updates to improve proxy tracking if you would like this project to continue please star the repo</p>
 <h1>Requirements</h1>
 <p>
-- Requests
-- bs4
-- colorama
+Requests,
+bs4,
+colorama
 Please install these requirements via pip.
 </p>
